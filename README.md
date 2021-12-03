@@ -8,7 +8,7 @@ The main goal?💪
 
 The main goal is players need to work together in order to bring the boss’s HP down to 0. 
 
-**However, life isn’t that easy. There’s a catch🤞🏼:**
+However, life isn’t that easy. There’s a catch🤞🏼:
 	
 When a player hits the BigDawg, the player is also wounded. And the players are the ones that suffer the most. Assume the BigDawg has 100,000 HP and the local player has 1,000HP. Each hit is worth 500HP. The player is then half-way through dying. If the NFT's HP goes below 0, the player's NFT dies and they can't hit the boss anymore. Players can only have one character NFT in their wallet. Once the character's NFT dies, it's game over. That means many players need to join forces to attack the boss and kill it.
 
