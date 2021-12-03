@@ -4,7 +4,7 @@
 
 The project’s main goal is to destroy the big dawg: the Boss. Let’s say the big guy has 1,000,000HP. What players do is when they start the game, they mint a character NFT that has a certain amount of Attack Damage and HP. Players can order their character NFT to attack and deal damage to it. It’s kinda like Pokemon.
 
-**The main goal?💪 **
+The main goal?💪 
 
 The main goal is players need to work together in order to bring the boss’s HP down to 0. 
 
