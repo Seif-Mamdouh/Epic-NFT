@@ -18,4 +18,12 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
  */
 module.exports = {
   solidity: "0.8.0",
+  networks: {
+    rinkeby: {
+      url: "none of ur busniness lmfaoooo",
+      accounts: [
+        "damn bro, rlly tryna know my private key huh? That's rlly ballsy",
+      ],
+    },
+  },
 };
