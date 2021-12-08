@@ -14,6 +14,12 @@ When a player hits the BigDawg, the player is also wounded. And the players are 
 
 <img width="901" alt="Screen Shot 2021-12-06 at 8 32 47 PM" src="https://user-images.githubusercontent.com/55955558/144949628-bf0d6b4c-be55-4a2f-b11f-4e2e0f71cccb.png">
 
+The Bigger Picture is, 
+Start will write a smart contract. That contract has all the logic around our actual game.
+My smart contract will be deployed to the local blockchain. This means anyone can access my smart contract and run my game. ( I’m giving access. I know I’m a nice guy 🙄  ).
+Building the client website. The website will help people easily connect their Ethereum Wallet and play our game.
+
+
 The important thing to know here is that the characters themselves are NFTs.
 So, when a player goes to play the game:
 1) They'll connect their wallet.
