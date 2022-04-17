@@ -30,7 +30,7 @@ So, when a player goes to play the game:
 
 <img width="889" alt="Screen Shot 2021-12-06 at 8 34 02 PM" src="https://user-images.githubusercontent.com/55955558/144949679-6c498a6a-9f17-4a49-9dc4-92d80af4b6a7.png">
 
-sheesh
+sheesh damn
 
 
 
